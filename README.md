@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 💫 About Me:<br>I am a Diploma student in Computer Engineering at Zeal Polytechnic, Pune.<br>I am learning programming and have basic knowledge of C, C++, Python, and HTML.<br>I like coding, learning new technologies, and improving my skills.<br>I want to grow as a developer and work on real projects in the future
+# 💫 About Me:<br>I am a Diploma student in Computer Engineering at Zeal Polytechnic, Pune.<br>I am learning programming and have basic knowledge of C, C++ and HTML.<br>I like coding, learning new technologies, and improving my skills.<br>I want to grow as a developer and work on real projects in the future
 
 
 ## 🌐 Socials:
